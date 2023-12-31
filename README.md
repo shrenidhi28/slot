@@ -24,9 +24,14 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+![image](https://github.com/shrenidhi28/slot/assets/155261096/4e072a77-12c0-49cc-b1e3-4edbdb823e9b)
+![image](https://github.com/shrenidhi28/slot/assets/155261096/4591cf0e-ef15-4776-9cc2-73b976ea2e51)
+
 
 
 ## OUTPUT
+![image](https://github.com/shrenidhi28/slot/assets/155261096/5536fc99-219b-4acb-832e-6696542a21f1)
+
 
 
 ## RESULT
